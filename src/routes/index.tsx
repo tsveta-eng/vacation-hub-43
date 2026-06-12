@@ -1,6 +1,7 @@
 import { createFileRoute } from "@tanstack/react-router";
 import { Link } from "@tanstack/react-router";
 
+import gobookLogo from "@/assets/gobook-logo.png";
 import stoneHouseImg from "@/assets/hero-stone-house.jpg";
 import cliffVillaImg from "@/assets/hero-cliff-villa.jpg";
 import woodenPorchImg from "@/assets/hero-wooden-porch.jpg";
