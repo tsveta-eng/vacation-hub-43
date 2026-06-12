@@ -40,7 +40,7 @@ function Index() {
             <img
               src={gobookLogo}
               alt="gobook.me"
-              className="h-8 w-auto"
+              className="h-14 w-auto"
             />
             <div className="hidden gap-6 text-sm font-medium text-ink/60 md:flex">
               <Link
